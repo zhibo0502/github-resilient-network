@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Resilient Network"
+  short_description: "Reliable GitHub operations on this Windows network"
+  default_prompt: "Diagnose this GitHub transport issue and complete the requested Git operation with safe fallback and remote readback."
