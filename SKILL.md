@@ -35,4 +35,3 @@ Reproduce this host's reliable GitHub workflow without changing global proxy, re
 ## Host-specific interpretation
 
 This host has shown intermittent direct GitHub 443 timeouts while IPv4 HTTPS later recovered without a configuration change. WinHTTP has normally been direct, and SSH has been reachable while existing keys were not authorized. These are diagnostic clues only; live checks decide every run.
-Maintained by @zhibo0502.
